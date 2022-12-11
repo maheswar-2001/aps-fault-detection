@@ -13,3 +13,8 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+
+
+Changes made in Neuro labs.
+
+Changes made successfully
